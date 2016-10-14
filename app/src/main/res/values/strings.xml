@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SingleScreenApp</string>
+    <string name="waldinjewelers">Waldin Jewelers</string>
+    <string-array name="services">
+        <item>Jeweler On Site</item>
+        <item>Free Lifetime Warranty</item>
+        <item>No Credit Check Financing</item>
+        <item>Largest Selection of Diamonds</item>
+        <item>Best Price</item>
+
+    </string-array>
+</resources>
